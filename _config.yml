@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: oryxtc's blog
+title: "oryxtc's blog"
 subtitle:
 description:
 author: oryxtc
@@ -42,7 +42,7 @@ highlight:
   enable: true
   line_number: true
   auto_detect: true
-  tab_replace:
+  tab_replace: true
 
 # Category & Tag
 default_category: uncategorized
