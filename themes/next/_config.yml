@@ -154,7 +154,7 @@ links_layout: block
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-avatar: http://ooqid2far.bkt.clouddn.com/myblog/%E5%A4%A7%E7%BE%9A%E7%BE%8A%E5%A4%B4%E5%83%8F-big.jpg!ratio.200
+avatar: http://img.oryxtc.top/myblog/%E5%A4%A7%E7%BE%9A%E7%BE%8A%E5%A4%B4%E5%83%8F-big.jpg
 
 # Table Of Contents in the Sidebar
 toc:
@@ -728,41 +728,41 @@ vendors:
   _internal: lib
 
   # Internal version: 2.1.3
-  jquery: http://ooqjlzyhw.bkt.clouddn.com/jquery-2.1.4.min.js
+  jquery: http://js.oryxtc.top/jquery-2.1.4.min.js
 
   # Internal version: 2.1.5
   # See: http://fancyapps.com/fancybox/
-  fancybox: http://ooqjlzyhw.bkt.clouddn.com/jquery.fancybox-3.0.0.min.js
-  fancybox_css: http://ooqj15229.bkt.clouddn.com/jquery.fancybox-3.0.0.min.css
+  fancybox: http://js.oryxtc.top/jquery.fancybox-3.0.0.min.js
+  fancybox_css: http://css.oryxtc.top/jquery.fancybox-3.0.0.min.css
 
   # Internal version: 1.0.6
   # See: https://github.com/ftlabs/fastclick
-  fastclick: http://ooqjlzyhw.bkt.clouddn.com/fastclick-1.0.6.js
+  fastclick: http://js.oryxtc.top/fastclick-1.0.6.js
 
   # Internal version: 1.9.7
   # See: https://github.com/tuupola/jquery_lazyload
-  lazyload: http://ooqjlzyhw.bkt.clouddn.com/jquery.lazyload-1.9.7.min.js
+  lazyload: http://js.oryxtc.top/jquery.lazyload-1.9.7.min.js
 
   # Internal version: 1.2.1
   # See: http://VelocityJS.org
-  velocity: http://ooqjlzyhw.bkt.clouddn.com/velocity-1.5.0.min.js
+  velocity: http://js.oryxtc.top/velocity-1.5.0.min.js
 
   # Internal version: 1.2.1
   # See: http://VelocityJS.org
-  velocity_ui: http://ooqjlzyhw.bkt.clouddn.com/velocity-1.5.0.ui.min.js
+  velocity_ui: http://js.oryxtc.top/velocity-1.5.0.ui.min.js
 
   # Internal version: 0.7.9
   # See: https://faisalman.github.io/ua-parser-js/
-  ua_parser: http://ooqjlzyhw.bkt.clouddn.com/ua-parser-0.7.12.min.js
+  ua_parser: http://js.oryxtc.top/ua-parser-0.7.12.min.js
 
   # Internal version: 4.6.2
   # See: http://fontawesome.io/
-  fontawesome: http://ooqj15229.bkt.clouddn.com/font-awesome-4.6.2.min.css
+  fontawesome: http://css.oryxtc.top/font-awesome-4.6.2.min.css
 
   # Internal version: 1
   # https://www.algolia.com
-  algolia_instant_js: http://ooqjlzyhw.bkt.clouddn.com/instantsearch-1.11.6.min.js
-  algolia_instant_css: http://ooqj15229.bkt.clouddn.com/instantsearch-1.11.6.min.css
+  algolia_instant_js: http://js.oryxtc.top/instantsearch-1.11.6.min.js
+  algolia_instant_css: http://css.oryxtc.top/instantsearch-1.11.6.min.css
 
   # Internal version: 1.0.2
   # See: https://github.com/HubSpot/pace
@@ -781,23 +781,23 @@ vendors:
 
   # three_waves
   # https://github.com/jjandxa/three_waves
-  three_waves: http://ooqjlzyhw.bkt.clouddn.com/three-waves.js
+  three_waves: http://js.oryxtc.top/three-waves.js
 
   # three_waves
   # https://github.com/jjandxa/canvas_lines
-  canvas_lines: http://ooqjlzyhw.bkt.clouddn.com/canvas_lines.js
+  canvas_lines: http://js.oryxtc.top/canvas_lines.js
 
   # three_waves
   # https://github.com/jjandxa/canvas_sphere
-  canvas_sphere: http://ooqjlzyhw.bkt.clouddn.com/canvas_sphere.js
+  canvas_sphere: http://js.oryxtc.top/canvas_sphere.js
 
   # Internal version: 1.0.0
   # https://github.com/zproo/canvas-ribbon
-  canvas_ribbon:  http://ooqjlzyhw.bkt.clouddn.com/canvas-ribbon.min.js
+  canvas_ribbon:  http://js.oryxtc.top/canvas-ribbon.min.js
 
   # Internal version: 3.3.0
   # https://github.com/ethantw/Han
-  han: http://ooqj15229.bkt.clouddn.com/han-3.2.7.min.css
+  han: http://css.oryxtc.top/han-3.2.7.min.css
 
   # needMoreShare2
   # https://github.com/revir/need-more-share2
